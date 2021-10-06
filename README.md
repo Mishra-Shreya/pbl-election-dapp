@@ -1,4 +1,8 @@
 # pbl-election-dapp
+A blockchain-smart contracts powered e-voting mechanism. Its a miniature version - web application wherein the voters can signin via metamask and verify themselves before casting their vote. Upon voting, the votes will be recorded and the current user will not be allowed to vote again. Proof of vote, Proof of results, anonynimity and transparency is maintained.
+
+This project was created as a part of School - PBL - Activity.
+
 
 ### To run the election-dapp
 #### Prerequisite: 
